@@ -14,7 +14,7 @@ Citation backbones. Import, query by id, fail if the id does not exist.
 
 Each repo ships an instance graph (`graph/index.html`) so you can see how the standard hangs together.
 
-Crown text remains OGL v3.0. Schema and tooling are MIT. Not official UK Government products, and not legal advice.
+Crown copyright stays with the Crown. The books are free to use under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). Schema and tooling are MIT. Not official UK Government products, and not legal advice.
 
 ## Also public
 
